@@ -1,0 +1,12 @@
+Escribe en ese archivo 3 prácticas básicas de seguridad digital, por ejemplo:
+
+Proteger contraseñas.
+No compartir credenciales.
+Mantener software actualizado.
+
+Respuesta:
+
+1.no abrir correos o links desconocidos(pueden ser estafas para robar datos)
+2.evitar redes wifi publicas para cosas sensibles(bancos,contraseñas, seguros,transaciones)
+3.verificar correos antes de responder , revisar el remitente(muchos correos imitan bancos o redes sociales)
+

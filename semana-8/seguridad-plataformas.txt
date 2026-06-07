@@ -1,0 +1,14 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria, por ejemplo:
+
+No exponer datos personales.
+Proteger credenciales.
+Usar conexiones seguras.
+Registrar accesos.
+Limitar acceso a información sensible.
+
+Respuesta:
+1.asignar permisos segun el rol de cada usuario(administrador,moderador,usuario)para evitar accesos indebidos
+2.guardar copias de la informacion para poder recuperarla si ocurre un error o un ataque
+3.avisar al usuario cuando su cuenta inicia sesion desde un nuevo dispositivo
+4.revisar que la informacion que ingresan los usuarios sea correcta y no maliciosa.
+5.Permitir que los usuarios denuncien contenido o comportamientos sospechosos.
